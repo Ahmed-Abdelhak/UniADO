@@ -1,2 +1,2 @@
 # UniDO
-A Sample Desktop application for Faculties of Universities based on WinForms and ADO.NET
+A Sample Desktop application for viewing Faculties of Universities based on WinForms and ADO.NET
