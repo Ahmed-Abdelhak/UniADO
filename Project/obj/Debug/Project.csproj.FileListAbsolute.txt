@@ -1,0 +1,18 @@
+F:\#           ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.exe.config
+F:\#           ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.exe
+F:\#           ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.pdb
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.Form1.resources
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.Properties.Resources.resources
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.exe
+F:\#           ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.pdb
+F:\1ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.exe.config
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.exe
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.pdb
+F:\1ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.exe
+F:\1ITI Data 2018\OOP\Lec 5\Project\bin\Debug\Project.pdb
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.Form1.resources
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.Properties.Resources.resources
+F:\1ITI Data 2018\OOP\Lec 5\Project\obj\Debug\Project.csproj.GenerateResource.Cache
